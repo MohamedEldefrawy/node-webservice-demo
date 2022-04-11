@@ -1,6 +1,6 @@
-# NATIVE PHP WEB API DEMO
+# NATIVE Node WEB API DEMO
 
-This is a solution of creating basic CRUD operation using native php
+This is a solution of creating basic CRUD operation using node js
 
 ## Table of contents
 
