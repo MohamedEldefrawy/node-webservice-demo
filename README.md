@@ -27,7 +27,7 @@ This is a solution of creating basic CRUD operation using native php
 2) install [node](https://nodejs.org/en/download/)
 3) in the project directory run the following
     ```
-    node man.mjs
+    node maهn.mjs
     ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
