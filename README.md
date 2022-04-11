@@ -1,6 +1,6 @@
-# NATIVE Node WEB API DEMO
+# Node Js WEB API DEMO
 
-This is a solution of creating basic CRUD operation using node js
+This is a solution of creating basic CRUD operation using http module
 
 ## Table of contents
 
